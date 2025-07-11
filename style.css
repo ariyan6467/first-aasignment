@@ -151,3 +151,11 @@ h2{
     letter-spacing: 1px;
     font-family: 'Segoe UI', 'Arial', sans-serif;
 }
+ul{
+    display: flex;
+    flex-direction: row;
+     gap: 80px; 
+}
+/* li{
+    gap: 80px;
+} */
