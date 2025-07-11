@@ -154,7 +154,37 @@ h2{
 ul{
     display: flex;
     flex-direction: row;
-     gap: 80px; 
+     gap: 45px; 
+     margin-left: 495px;
+}
+.review{
+    width: 366.67px;
+    height: 2430px;
+}
+.for-img{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items:center;
+    gap:10px;
+}
+.for-text{
+    margin-bottom:px;
+}
+aside{
+
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    align-items: baseline;
+    gap:50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+nav{
+    width: 1140px;
+    height:390px;
+    border-radius: 10px;
 }
 /* li{
     gap: 80px;
